@@ -5,7 +5,7 @@
 ![alt text](https://www.pexels.com/photo/woman-wearing-blue-and-black-sun-gat-654693/)
 
 ## Installation
-use the packege manger [pip] (https://pip.pypa.io/en/stable/) to install footer
+use the packege manger [pip](https://pip.pypa.io/en/stable/) to install footer
 
 
 ```bash
