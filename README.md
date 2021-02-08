@@ -2,7 +2,7 @@
 	
 
 
-![alt text] (https://www.pexels.com/photo/woman-smiling-during-day-2773682/)
+![alt text](https://www.pexels.com/photo/woman-smiling-during-day-2773682/)
 
 ## Installation
 use the packege manger [pip](https://pip.pypa.io/en/stable/) to install footer
