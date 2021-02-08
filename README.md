@@ -13,7 +13,8 @@ pip install foobar
 ```
 
 ## Usage
-
+```python
+import foobar
 
 import foobar
 
